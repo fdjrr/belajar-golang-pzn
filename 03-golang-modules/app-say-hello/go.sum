@@ -1,0 +1,4 @@
+github.com/fdjrr/go-say-hello v1.0.2 h1:0KKoakkXpA3u2ho9YwB4ntHjopv9+D5B7Fgi4NAiBBo=
+github.com/fdjrr/go-say-hello v1.0.2/go.mod h1:WzSM/Xk/fsqRaY9rNdhs6i7S1sB0UN96rCsykFjirE8=
+github.com/fdjrr/go-say-hello/v2 v2.0.0 h1:b9RSSc+B2gcSOnszT8q3s2v8sL2WFx8mqrW3us7nXy8=
+github.com/fdjrr/go-say-hello/v2 v2.0.0/go.mod h1:dk4QTxOCCo1tGXgjxzIFZjGEnHgSEyg3TiZkJCOPP/A=
